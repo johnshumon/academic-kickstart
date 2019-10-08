@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer"
+  company = "Qvik Oy"
+  company_url = "https://www.qvik.com"
+  location = "Helsinki"
+  date_start = "2018-11-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Backend development
+  * Cloud services and architecting
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Experienced Software Developer"
+  company = "Ericsson"
+  company_url = "https://www.ericsson.com/en"
+  location = "Kirkkonummi"
+  date_start = "2018-05-01"
+  date_end = "2018-10-31"
+  description = """"
+  Responsibilities include:
+  
+  * Infrastructure automation and on-boarding.
 
+  [[experience]]
+  title = "Software Developer"
+  company = "Tecnotree Corporation"
+  company_url = "https://www.tecnotree.com"
+  location = "Espoo"
+  date_start = "2016-02-22"
+  date_end = "2018-01-31"
+  description = """"
+  Responsibilities include:
+  
+  * REST API specification and development for different service components.
+  * Continuous integration and delivery pipeline and DevOps practices.
+  * Orchestration of mircoservices through Rancher orchestration management for container based solutions.
+  * Implementation of a invoice uploading service using Kafka streaming platform as the invoice queue.
 +++
