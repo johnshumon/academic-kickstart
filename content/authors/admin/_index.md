@@ -14,7 +14,7 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Qvik
+- name: Qvik Oy.
   url: "https://www.qvik.com"
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: linkedin
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: https://linkedin.com/in/johnshumon  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/johnshumon
