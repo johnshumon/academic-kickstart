@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Backend development
-  * Cloud services and architecting
+  * Backend development.
+  * Cloud services and architecting.
   """
 
 [[experience]]
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Developer"
-  company = "Qvik Oy"
+  company = "Tecnotree Corporation"
   company_url = "https://www.tecnotree.com"
   location = "Espoo"
   date_start = "2016-02-22"
